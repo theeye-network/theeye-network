@@ -16,9 +16,8 @@ Welcome to the Eye Network, a dedicated community of cybersecurity enthusiasts! 
 [![](https://visitcount.itsvg.in/api?id=theeye-network&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
----
 # Contributors
-- <p><a href="https://github.com/rogue0xbyte"></a>@Aaditya Rengrajan</p>
-- <p href="https://github.com/lohithgsk">@Lohith S</p>
+- [@Aaditya Rengrajan](https://github.com/rogue0xbyte)
+- [@Lohith S](https://github.com/lohithgsk)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
