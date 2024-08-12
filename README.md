@@ -20,5 +20,6 @@ Welcome to the Eye Network, a dedicated community of cybersecurity enthusiasts! 
 - [@Aaditya Rengrajan](https://github.com/rogue0xbyte)
 - [@Lohith S](https://github.com/lohithgsk)
 - [@Arun U S](https://github.com/hydrxd)
+- [@Navaneetha Krishnan](https://github.com/navaneeenavan)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
